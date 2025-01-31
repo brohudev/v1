@@ -1,9 +1,13 @@
-# Personal Portdolio Site
+# Personal Portfolio (V1)  
 
-Self Explanatory. I have always felt the need to create a personal portfolio but the itch wasnt irritating enough... until now. 
+🖥️ **Self-explanatory.** Finally built my personal portfolio after putting it off for a while.  
 
-This repo contains the code for V1 release of my portfolio. 
+## 🚀 Tech Stack  
+- **Frontend:** React  
+- **Hosting:** Cloudflare Pages  
 
-... mmmhowever, as you can tell by looking at `devnotebook.md`, I want quite a bit much from my portfolio, so I will be working on V2 in the meantime.
+## ⚠️ Status  
+🚧 **Abandoned** – This was the first version of my portfolio, but I’ve since moved on to [V2](https://github.com/brohudev/v2).  
 
-built with React, and hosted on cloudflare using cloudflare pages.
+## 📜 License  
+This project is licensed under the [MIT License](LICENSE). 
